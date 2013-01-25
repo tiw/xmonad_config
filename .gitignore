@@ -1,0 +1,6 @@
+xmonad
+*.errors
+*.hi
+xmonad-i386-linux
+*.o
+
